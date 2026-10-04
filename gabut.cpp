@@ -12,7 +12,7 @@ private :
     bool doorLocked;
     bool audioAlarm;
 
-    const double safetyBoundaries = 5.0; //contoh angkanya aja aslinya mah gatau berapa batas amanya
+    const double safetyBoundaries = 100.0; //contoh angkanya aja aslinya mah gatau berapa batas amanya
 
 
 public :
